@@ -1,4 +1,5 @@
-read_verilog rtl/top_module.v
+read_verilog rtl/gshare_predictor.v
 prep -top top_module
-opt
+blackbox pht_mem
+opt_clean
 show -format png -prefix artifacts/gshare_schematic
