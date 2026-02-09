@@ -105,6 +105,10 @@ The testbench includes:
 
 ![Waveform](artifacts/gshare_waveform.png)
 
+### Schematic
+
+![Schematic](artifacts/gshare_schematic.svg)
+
 ------------------------------------------------------------------------
 
 ## Tooling
