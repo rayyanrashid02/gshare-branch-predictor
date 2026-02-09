@@ -1,0 +1,14 @@
+# Build outputs
+build/
+*.out
+*.log
+
+# Waveforms / dumps
+*.vcd
+*.fst
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/

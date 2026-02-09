@@ -1,0 +1,4 @@
+read_verilog rtl/top_module.v
+prep -top top_module
+opt
+show -format png -prefix artifacts/gshare_schematic
